@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>米彩米斕的日常電台</title>
+    <description>每天早上八點，聽米彩和米斕姊妹倆聊聊日常、談談心事。溫暖的姊姊米彩和活潑的妹妹米斕，帶給你輕鬆愉快的早晨時光。</description>
+    <language>zh-tw</language>
+    <link>https://crius13598.github.io/micai-milan-podcast</link>
+    <atom:link href="https://crius13598.github.io/micai-milan-podcast/feed.xml" rel="self" type="application/rss+xml"/>
+    <itunes:author>米彩 &amp; 米斕</itunes:author>
+    <itunes:summary>每天早上八點，聽米彩和米斕姊妹倆聊聊日常、談談心事。溫暖的姊姊米彩和活潑的妹妹米斕，帶給你輕鬆愉快的早晨時光。</itunes:summary>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:image href="https://crius13598.github.io/micai-milan-podcast/cover.png"/>
+    <image>
+      <url>https://crius13598.github.io/micai-milan-podcast/cover.png</url>
+      <title>米彩米斕的日常電台</title>
+      <link>https://crius13598.github.io/micai-milan-podcast</link>
+    </image>
+    <itunes:category text="Society &amp; Culture">
+      <itunes:category text="Personal Journals"/>
+    </itunes:category>
+    <itunes:owner>
+      <itunes:name>米彩 &amp; 米斕</itunes:name>
+      <itunes:email>crius1357@gmail.com</itunes:email>
+    </itunes:owner>
+  </channel>
+</rss>
