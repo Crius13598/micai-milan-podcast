@@ -24,46 +24,24 @@
       <itunes:email>crius1357@gmail.com</itunes:email>
     </itunes:owner>
     <item>
-      <title>#4 善意的谎言</title>
+      <title>#2 善意的谎言</title>
       <description>【伦理】今天米彩和米斕聊聊「善意的谎言」這個話題。每天早上八點，我們明天見！</description>
       <itunes:summary>【伦理】今天米彩和米斕聊聊「善意的谎言」這個話題。每天早上八點，我們明天見！</itunes:summary>
       <enclosure url="https://crius13598.github.io/micai-milan-podcast/episodes/podcast_20260304_善意的谎言.mp3" type="audio/mpeg" length="3896468"/>
       <itunes:duration>04:08</itunes:duration>
       <pubDate>Wed, 04 Mar 2026 08:00:00 +0000</pubDate>
       <guid isPermaLink="false">591fba7840276dd78100a7718aa5d385</guid>
-      <itunes:episode>4</itunes:episode>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <title>#2 喜欢的音乐类型</title>
-      <description>【轻松话题】今天米彩和米斕聊聊「喜欢的音乐类型」這個話題。每天早上八點，我們明天見！</description>
-      <itunes:summary>【轻松话题】今天米彩和米斕聊聊「喜欢的音乐类型」這個話題。每天早上八點，我們明天見！</itunes:summary>
-      <enclosure url="https://crius13598.github.io/micai-milan-podcast/episodes/podcast_20260303_喜欢的音乐类型.mp3" type="audio/mpeg" length="2795331"/>
-      <itunes:duration>03:05</itunes:duration>
-      <pubDate>Tue, 03 Mar 2026 08:00:00 +0000</pubDate>
-      <guid isPermaLink="false">a0374628ada395780e98c58fb77f55e7</guid>
       <itunes:episode>2</itunes:episode>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>#3 告白失败怎么办</title>
+      <title>#1 告白失败怎么办</title>
       <description>【感情】今天米彩和米斕聊聊「告白失败怎么办」這個話題。每天早上八點，我們明天見！</description>
       <itunes:summary>【感情】今天米彩和米斕聊聊「告白失败怎么办」這個話題。每天早上八點，我們明天見！</itunes:summary>
       <enclosure url="https://crius13598.github.io/micai-milan-podcast/episodes/podcast_20260303_告白失败怎么办.mp3" type="audio/mpeg" length="2953816"/>
       <itunes:duration>03:11</itunes:duration>
       <pubDate>Tue, 03 Mar 2026 08:00:00 +0000</pubDate>
       <guid isPermaLink="false">746a221124ce3f85fdb09dd9299df9e2</guid>
-      <itunes:episode>3</itunes:episode>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <title>#1 单身的好处和烦恼</title>
-      <description>【感情】今天米彩和米斕聊聊「单身的好处和烦恼」這個話題。每天早上八點，我們明天見！</description>
-      <itunes:summary>【感情】今天米彩和米斕聊聊「单身的好处和烦恼」這個話題。每天早上八點，我們明天見！</itunes:summary>
-      <enclosure url="https://crius13598.github.io/micai-milan-podcast/episodes/podcast_20260303_单身的好处和烦恼.mp3" type="audio/mpeg" length="1838456"/>
-      <itunes:duration>03:11</itunes:duration>
-      <pubDate>Tue, 03 Mar 2026 08:00:00 +0000</pubDate>
-      <guid isPermaLink="false">7bc087b494bbc65d8a9c845ecf40041f</guid>
       <itunes:episode>1</itunes:episode>
       <itunes:explicit>no</itunes:explicit>
     </item>
