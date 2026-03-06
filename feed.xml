@@ -24,13 +24,24 @@
       <itunes:email>crius1357@gmail.com</itunes:email>
     </itunes:owner>
     <item>
-      <title>#3 AI會取代人類工作嗎</title>
-      <description>【時事討論】今天米彩和米斕聊聊「AI會取代人類工作嗎」這個話題。每天早上八點，我們明天見！</description>
-      <itunes:summary>【時事討論】今天米彩和米斕聊聊「AI會取代人類工作嗎」這個話題。每天早上八點，我們明天見！</itunes:summary>
-      <enclosure url="https://crius13598.github.io/micai-milan-podcast/episodes/podcast_20260305_AI会取代人类工作吗.mp3" type="audio/mpeg" length="3391465"/>
-      <itunes:duration>03:38</itunes:duration>
+      <title>#4 如何判断对方是否喜欢你</title>
+      <description>【恋爱】今天米彩和米斕聊聊「如何判断对方是否喜欢你」這個話題。每天早上八點，我們明天見！</description>
+      <itunes:summary>【恋爱】今天米彩和米斕聊聊「如何判断对方是否喜欢你」這個話題。每天早上八點，我們明天見！</itunes:summary>
+      <enclosure url="https://crius13598.github.io/micai-milan-podcast/episodes/podcast_20260306_如何判断对方是否喜欢你.mp3" type="audio/mpeg" length="3221765"/>
+      <itunes:duration>03:30</itunes:duration>
+      <pubDate>Fri, 06 Mar 2026 08:00:00 +0000</pubDate>
+      <guid isPermaLink="false">d666dbfd6808e390f6a169755e76e8b8</guid>
+      <itunes:episode>4</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>#3 如何判断对方是否喜欢你</title>
+      <description>【感情】今天米彩和米斕聊聊「如何判断对方是否喜欢你」這個話題。每天早上八點，我們明天見！</description>
+      <itunes:summary>【感情】今天米彩和米斕聊聊「如何判断对方是否喜欢你」這個話題。每天早上八點，我們明天見！</itunes:summary>
+      <enclosure url="https://crius13598.github.io/micai-milan-podcast/episodes/podcast_20260305_如何判断对方是否喜欢你.mp3" type="audio/mpeg" length="2268021"/>
+      <itunes:duration>02:32</itunes:duration>
       <pubDate>Thu, 05 Mar 2026 08:00:00 +0000</pubDate>
-      <guid isPermaLink="false">podcast_20260305_ai_work</guid>
+      <guid isPermaLink="false">802018efdba490a2b5ffe45272cbde79</guid>
       <itunes:episode>3</itunes:episode>
       <itunes:explicit>no</itunes:explicit>
     </item>
